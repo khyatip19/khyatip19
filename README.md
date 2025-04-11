@@ -16,10 +16,6 @@ Outside of work, I love building things that help people — whether it’s an A
 - Exploring **Kubernetes** and **GitOps** workflows
 - Planning to deploy a personal full-stack app on **AWS** (idea loading... ☁️💡)
 
-### 🌱 Learning More About:
-- Internals of containerization and system-level debugging
-- Cost-efficient cloud deployments and monitoring stacks
-
 ### 👨‍💻 My Stack:
 `Python` `JavaScript` `React` `Node.js` `Flask` `MongoDB`  
 `Azure` `AWS` `Docker` `Terraform` `Jenkins` `Kubernetes`
