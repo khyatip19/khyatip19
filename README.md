@@ -4,8 +4,7 @@
 **khyatip19/khyatip19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a **Cloud & DevOps enthusiast** currently pursuing my Master's in Computer Science at Rutgers.
-Currently pursuing my MS in Computer Science at Rutgers, I’ve worked in industry as a Senior Software Engineer at Capgemini — where I built scalable cloud-native infrastructure and automated deployments at scale.
+I'm a **Cloud & DevOps enthusiast** currently pursuing my Master's in Computer Science at Rutgers. I’ve worked in industry as a Senior Software/Infrastructure Engineer at Capgemini — where I built scalable cloud-native infrastructure and automated deployments at scale.
 
 Outside of work, I love building things that help people — whether it’s an AI tool for detecting leprosy, a telehealth platform, or a menstrual hygiene locator built during a hackathon sprint. ☁️🛠️🚀
 
